@@ -15,3 +15,6 @@ This lab is to introduce you to GitHub, the IT industry's current standard for S
   The 3rd will show the change you made to this file on your computer.
   
   -> This is the first change of lab
+  
+  -> This is the second change
+  
